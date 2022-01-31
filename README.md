@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, I play video games, and exercise
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gary-wallen-22624798/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gary-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gary-wallen-22624798/)
 
 ---
 
