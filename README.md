@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me : I am a Software Manager and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US, living in Europe.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Manager and contributing to building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Learning Java/Python more.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I play video games, and exercise
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gary-wallen-22624798/)
 
 ---
 
