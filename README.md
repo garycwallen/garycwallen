@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - :telescope: I’m working as a Software Manager and contributing to building web applications.
 
-- :seedling: Learning Java/Python more.
+- :seedling: Learning Python, reactJS, TypeScript, Java and more...
 
 - :zap: In my free time, I play video games, and exercise
 
