@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ---
 
-### :man_technologist: About Me : I am a Software Manager and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US, living in Europe.
+### :man_technologist: About Me : I am a Software Manager and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in the US.
 
-- :telescope: I’m working as a Software Manager and contributing to building web applications.
+- :telescope: I’m working as a Software Manager and contributing to building large-scale applications and services.
 
-- :seedling: Learning Python, reactJS, TypeScript, Java and more...
+- :seedling: Learning AI/LLM, Python, reactJS, TypeScript, Java and more...
 
 - :zap: In my free time, I play video games, and exercise
 
