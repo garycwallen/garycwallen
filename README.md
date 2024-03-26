@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - :telescope: I’m working as a Software Manager and contributing to building large-scale applications and services.
 
-- :seedling: Learning AI/LLM, Python, reactJS, TypeScript, Java and more...
+- :seedling: Learning AI/LLM, TypeScript, reactJS/nextJS/Vite, Python, and more...
 
 - :zap: In my free time, I play video games, and exercise
 
